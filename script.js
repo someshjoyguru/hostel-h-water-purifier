@@ -7,7 +7,9 @@ document.querySelector('#Director').addEventListener('click', function() {
 Dear Director Sir,
 
 I hope this message finds you in good health and high spirits.
+
 We are currently experiencing a water shortage in Hostel H, primarily due to the infrequent availability of water from our mess facilities. This situation has led to significant inconvenience, particularly exacerbated by the peak summer conditions and the impending examination period. We respectfully petition the director to consider the installation of a water cooler specifically designated for Hostel H, thereby alleviating this pressing issue.
+
 Even after repeated applications and complains to respective position holder the situation remains the same.
 
 We request you to take the matter seriously and do the needful.
